@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  app:
+    build: ./docker_compose
+    context: .
+  ports:
+    - "3000"
+  volumes: .:/var/html
