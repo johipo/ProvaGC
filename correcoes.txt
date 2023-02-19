@@ -1,0 +1,22 @@
+Questão 1) 
+1 - Resposta incorreta.
+2 - Respostas com vários erros.
+Dockerfile sem CMD, e portanto não executa o código.
+Nota: 0.5
+
+Questão 2) 
+Resposta ok.
+docker-compose.yml não funciona.
+Nota: 1.3
+
+Questão 3) 
+Informações sobre SCV distribuído incorretas.
+Uso do git revert ok.
+Nota: 1.5
+
+Questão 4) 
+Resposta ok.
+Uso do rebase ok.
+Nota: 2.5
+
+Nota final: 5.8
